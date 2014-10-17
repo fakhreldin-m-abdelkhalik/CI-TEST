@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-  2.1.2p95
+  2.1.2-p95
 bundler_args: --without production
